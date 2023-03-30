@@ -1,0 +1,10 @@
+.images img
+{
+    position: relative;
+    width: 1000px; 
+}
+img
+{
+    position: relative;
+    width: 500px;
+}
